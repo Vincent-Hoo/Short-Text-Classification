@@ -1,0 +1,5 @@
+--------
+/home/hzb/snap-master/examples/node2vec/node2vec.Err
+Wed May 16 22:39:05 2018
+Execution stopped: IsFlt(false, 0, 0, Val), file ../../glib-core/dt.h, line 629
+--------
